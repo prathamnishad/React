@@ -1,5 +1,5 @@
 ## Deployed App here
-[Slider App](https://pmaniaslider.netlify.app)
+[Slider App](https://pmaniaslider2.netlify.app)
 
 
 
